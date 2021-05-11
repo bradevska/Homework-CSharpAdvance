@@ -192,7 +192,6 @@ namespace CSharpAdvance.Class6.Homework
             baranje6.ForEach(x =>Console.WriteLine(x));
 
             Console.WriteLine("===================================================");
-
             Console.ReadLine();
         }
     }
